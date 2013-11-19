@@ -1,1 +1,7 @@
-Context.sublime-menu
+[
+    {
+        "caption":"Copy Markdown as HTML",
+        "command": "m2c",
+        "mnemonic": "Copy Markdown as HTML"
+    }
+]
